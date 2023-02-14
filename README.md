@@ -25,11 +25,11 @@ La période de nuit consiste a survivre à de multiple vagues venant de différe
 Lorsque toutes les nuits ont été effectué et que le joueur a survécu il sera acceuilli avec un écran de remerciement pour avoir joué a la démo du jeu AdlezRTS
 
 ## **Entitées**
-** Alliés **
+**Alliés**
  - Humain builder
  - Humain fighter
 
-** Ennemies **
+**Ennemies**
  - Tank : Monstre qui attaque au corps à corps avec beaucoup de PV et marche lantement
  - Shooter : Monstre qui attaque à distance avec peut de PV
 
