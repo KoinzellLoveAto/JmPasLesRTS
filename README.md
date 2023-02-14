@@ -4,7 +4,9 @@ AdlezRTS est un jeu typé **RTS** dans lequel vous devrez survivre à de multipl
 
 
 ## **Source Inspiration**
-### Montrer une image de Age of Empire et They are Billions
+![Image Age of Empire]
+
+![Image They Are Billions](https://example.com/bild.jpg)
 
 ## **Scénario Tutoriel, Guidage Joueur**
 Le village à été ravagé durant la dernière lune, toutes les batiments ont été réduit en poussière sous les coups des adversaire, au lever du soleil
