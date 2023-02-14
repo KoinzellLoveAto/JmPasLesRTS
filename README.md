@@ -1,13 +1,13 @@
 ## **Cahier des charges**
 
-### AdlezRTS est un jeu typé **RTS** dans lequel vous devrez survivre à de multiple vague pendant un système jour/nuit. Ce jeu est réalisé avec **Unreal Engine 5**
+AdlezRTS est un jeu typé **RTS** dans lequel vous devrez survivre à de multiple vague pendant un système jour/nuit. Ce jeu est réalisé avec **Unreal Engine 5**
 
 
 ## **Source Inspiration**
 ### Montrer une image de Age of Empire et They are Billions
 
 ## **Scénario Tutoriel, Guidage Joueur**
-### Le village à été ravagé durant la dernière lune, toutes les batiments ont été réduit en poussière sous les coups des adversaire, au lever du soleil
+Le village à été ravagé durant la dernière lune, toutes les batiments ont été réduit en poussière sous les coups des adversaire, au lever du soleil
 ces derniers parte à la vue du soleil et des renforts alliés arrivant malheuresement trop tard. Pour ce début de jeu le joueur pourra assiter à une petite mise
 en scène expliqué au-dessus, lorsque que les adversaires sortent du village le joueur pourra prendre contrôle des unités renforts et sera convié a reconstruire
 le village (un des batiments pouvant être reconstruit du village). 
