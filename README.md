@@ -3,8 +3,12 @@
 AdlezRTS est un jeu typé **RTS** dans lequel vous devrez survivre à de multiple vague pendant un système jour/nuit. Ce jeu est réalisé avec **Unreal Engine 5**
 
 
+## **Univers**
+Utilisation du pack Sci-Fi pour la mise en place de l'univers : https://syntystore.com/collections/frontpage/products/polygon-sci-fi-worlds
+
 ## **Source Inspiration**
 ### Montrer une image de Age of Empire et They are Billions
+![AgeOfEmpireII](https://www.biendebuter.net/wp-content/uploads/2014/10/23081053091comparo.jpg)
 
 ## **Scénario Tutoriel, Guidage Joueur**
 Le village à été ravagé durant la dernière lune, toutes les batiments ont été réduit en poussière sous les coups des adversaire, au lever du soleil
@@ -20,6 +24,15 @@ La période en jour, le joueur devra construire, dépenser ces ressources pour c
 La période de nuit consiste a survivre à de multiple vagues venant de différent coté du village, chaque adversaire éliminé permettra de gagner de l'argent.
 
 Lorsque toutes les nuits ont été effectué et que le joueur a survécu il sera acceuilli avec un écran de remerciement pour avoir joué a la démo du jeu AdlezRTS
+
+## **Entitées**
+**Alliés**
+ - Humain builder
+ - Humain fighter
+
+**Ennemies**
+ - Tank : Monstre qui attaque au corps à corps avec beaucoup de PV et marche lentement
+ - Shooter : Monstre qui attaque à distance avec peut de PV
 
 ## **Schéma Map**
 
