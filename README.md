@@ -8,6 +8,7 @@ Utilisation du pack Sci-Fi pour la mise en place de l'univers : https://syntysto
 
 ## **Source Inspiration**
 ### Montrer une image de Age of Empire et They are Billions
+![AgeOfEmpireII](https://www.biendebuter.net/wp-content/uploads/2014/10/23081053091comparo.jpg)
 
 ## **Scénario Tutoriel, Guidage Joueur**
 Le village à été ravagé durant la dernière lune, toutes les batiments ont été réduit en poussière sous les coups des adversaire, au lever du soleil
