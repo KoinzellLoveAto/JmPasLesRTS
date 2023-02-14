@@ -25,6 +25,19 @@ La période de nuit consiste a survivre à de multiple vagues venant de différe
 
 Lorsque toutes les nuits ont été effectué et que le joueur a survécu il sera acceuilli avec un écran de remerciement pour avoir joué a la démo du jeu AdlezRTS
 
+**Étapes:** (Avant chaque étape le jeu sera mis en pause)
+ - Montrer le système de séléction par unité ou pour un ensemble avec la séléction multiple en rectangle
+ - Cliquer sur un bâtimet avec une ou plusieurs unités séléctionnées le bâtiment principale pour le reconstruire ce qui permet de créer des simples IA
+ - Ensuite séléctionner le bâtiment pour créer d'autre IA
+ - Construire le bâtiment des troupes d'attaques
+ - Générer des troupes d'attaques
+ - Placer les troupes pour défendre
+ - Reconstruire une tour de défense
+ - La Nuit tombe
+ - Début de la vague et montrer la séléction d'unité pour attaquer une unité ennemie précisement, ou la plus proche, celle qui à le plus de PV, celle qui est la plus faible, ...
+ - Continuer jusqu'à la 10ème vague
+ - FIN (Ou mort prématuré : Plus d'unité et de bâtiment en bonne état)
+
 ## **Entitées**
 **Alliés**
  - Humain builder
