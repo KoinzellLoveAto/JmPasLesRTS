@@ -7,7 +7,6 @@ AdlezRTS est un jeu typé **RTS** dans lequel vous devrez survivre à de multipl
 Utilisation du pack Sci-Fi pour la mise en place de l'univers : https://syntystore.com/collections/frontpage/products/polygon-sci-fi-worlds
 
 ## **Source Inspiration**
-### Montrer une image de Age of Empire et They are Billions
 ![AgeOfEmpireII](https://www.biendebuter.net/wp-content/uploads/2014/10/23081053091comparo.jpg)
 ![TheyAreBillions](ImageRepo/BillionsIcon.png)
 
