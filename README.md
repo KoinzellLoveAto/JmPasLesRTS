@@ -30,7 +30,7 @@ Lorsque toutes les nuits ont été effectué et que le joueur a survécu il sera
  - Humain fighter
 
 **Ennemies**
- - Tank : Monstre qui attaque au corps à corps avec beaucoup de PV et marche lantement
+ - Tank : Monstre qui attaque au corps à corps avec beaucoup de PV et marche lentement
  - Shooter : Monstre qui attaque à distance avec peut de PV
 
 ## **Schéma Map**
