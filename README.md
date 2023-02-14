@@ -48,6 +48,7 @@ Lorsque toutes les nuits ont été effectué et que le joueur a survécu il sera
  - Shooter : Monstre qui attaque à distance avec peut de PV
 
 ## **Schéma Map**
+![Map](ImageRepo/Map.png)
 
 ## **Mécanique principale avec IA Employé**
 1. Mécanique Construction/Réparation de batîments
