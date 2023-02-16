@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Entity/S_Entity.uasset",
+				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Building/S_Building.uasset",
+				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Building/E_BuildingStatus.uasset",
+				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/08_DataTable/DT_Building.uasset",
 				"C:/Users/Bapti/Documents/GitHub/JmPasLesRTS/JmPasLesRTS/Content/__ExternalActors__/Game/Map/Untitled/1/TP/6WSGC9PSHNAJ30HSG7SB5T.uasset",
 				"C:/Users/Bapti/Documents/GitHub/JmPasLesRTS/JmPasLesRTS/Content/__ExternalActors__/Game/Map/Bapt/BaptEntity/1/2U/M2ZY7DEJKVDJOM3KTAUDPH.uasset",
 				"C:/Users/Bapti/Documents/GitHub/JmPasLesRTS/JmPasLesRTS/Content/__ExternalActors__/Game/Map/Bapt/BaptEntity/9/RO/WCR46I1NUR2INJS6GS7E13.uasset",
