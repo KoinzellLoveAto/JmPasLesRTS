@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHubRepos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Entity/E_TypeEntity.uasset",
+				"E:/GitHubRepos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Entity/S_Entity.uasset",
+				"E:/GitHubRepos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Building/S_Building.uasset",
+				"E:/GitHubRepos/JmPasLesRTS/JmPasLesRTS/Content/08_DataTable/DT_Entity.uasset",
+				"E:/GitHubRepos/JmPasLesRTS/JmPasLesRTS/Content/08_DataTable/DT_Building.uasset",
 				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Entity/S_Entity.uasset",
 				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Building/S_Building.uasset",
 				"C:/Users/argen/Desktop/gitHub Repos/JmPasLesRTS/JmPasLesRTS/Content/07_BP/Building/E_BuildingStatus.uasset",
